@@ -275,7 +275,9 @@ div#featured-job {
 #my-carousel p{
     text-transform: capitalize;
 }
-
+.company-logo{
+    background-color: #e7e7e7;
+}
 
 /* End of body */
 

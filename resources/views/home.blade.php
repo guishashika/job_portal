@@ -381,6 +381,8 @@
 <!-- End of profile carousel  section -->
 
 <!-- gallery  section -->
+<div class="container-fluid company-logo" >
+
     <div id="logo-gallery"  class="container">
             <h1 class="main-title text-center">Agencies</h1>
             <p class="sub-title text-center">The world's leading digital Leading employers already using Uwa Wellassa University job vacancies</p>
@@ -403,6 +405,7 @@
             
         </div>
     </div>
+  </div>   
 <!-- End of image gallery section -->
 
 @endsection
