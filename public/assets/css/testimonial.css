@@ -1,0 +1,39 @@
+#my-carousel .col-md-2{
+    display: inline-block;
+    margin-left:-4px;
+  }
+  #my-carousel .col-md-2 img{
+    width:100%;
+    height:auto;
+  }
+  #my-carousel body .carousel-indicators li{
+    background-color:red;
+  }
+  #my-carousel  body .carousel-control-prev-icon,
+  #my-carousel body .carousel-control-next-icon{
+    background-color:red;
+  }
+  #my-carousel body .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+.slider-inner-content{
+    padding-top: 15px;
+}
+
+img.profile-slider-img{
+   
+    width: 150px !important;
+    height: 150px !important;
+}
+
+
+#my-carousel .col-md-4{
+    display: inline-block;
+    margin-left:-4px;
+  }
+  #my-carousel .col-md-4 img{
+    width:100%;
+    height:auto;
+  }
